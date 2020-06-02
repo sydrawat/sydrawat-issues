@@ -25,7 +25,7 @@ This repository is created to maintain issues that are encountered on my [person
 - [Siddharth Rawat](https://sydrawat.netlify.app)
 
 
-### :nut_and_bolt:  Creating Issues :wrench:
+## :nut_and_bolt:  Creating Issues :wrench:
 
 Before you create an issue, please go through the [Code of Conduct](./CODE_OF_CONDUCT.md) and follow the structure of [template](./github/ISSUE_TEMPLATE) provided for raising an issue.
 
