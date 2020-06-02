@@ -1,6 +1,6 @@
 # Issues @ syd
 
-This repository is created to maintain issues that are encountered on my [ personal website](https://sydrawat.neetlify.app).
+This repository is created to maintain issues that are encountered on my [ personal website](https://sydrawat.netlify.app).
 
 ## Cresting Issues
 
