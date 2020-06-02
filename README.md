@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Issues @ sydrawat
+  <a href="https://sydrawat.netlify.app">Issues @ sydrawat</a>
 </h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
